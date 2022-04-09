@@ -1,6 +1,6 @@
 # Meleake Wubbie
 
-your.name@example.com
+meleake1@uw.edu
 
 http://www.example.com
 
