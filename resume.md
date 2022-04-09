@@ -2,58 +2,32 @@
 
 # Meleake Wubbie
 
-meleake1@uw.edu
+Email: meleake1@uw.edu
 
-http://www.example.com
+LinkedIn: www.linkedin.com/in/meleake
 
-http://www.linkedin.com/in/yourname
+> Perfered Roles: Data Analyst, GIS Specialist, Data Scientist
 
-> Data Analyst
+# Skills
 
+* QGIS
+* ArcGIS
+* Python
+* SQL
 
+# Education (only last 10 years)
 
-# Summary
+## University of Washington (Seattle, WA)
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+* 1400 NE Campus Parkway, Seattle, WA, 98195-4550 
 
-# Work Experience (only last 10 years)
+        **(2016 - 2022)** 
 
-## University Name 1 (City, State)
+## Raisbeck Aviation High School (Tukwila WA)
 
-* [University 1][] description, particularly if not well-known.*
+* 9229 E Marginal Way S, Tukwila, WA 98108
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
+        **(2012 - 2016)** 
 
 
 [University 1]: http://www.univ1.edu
