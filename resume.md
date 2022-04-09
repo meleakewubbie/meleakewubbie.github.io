@@ -1,4 +1,4 @@
-![](assets/gds.png)
+![](assets/uwlogo.png)
 
 # Meleake Wubbie
 
