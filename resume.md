@@ -28,8 +28,3 @@ LinkedIn: www.linkedin.com/in/meleake
 * 9229 E Marginal Way S, Tukwila, WA 98108
 
         **(2012 - 2016)** 
-
-
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
