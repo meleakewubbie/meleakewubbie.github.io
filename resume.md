@@ -1,3 +1,5 @@
+![](assets/gds.png)
+
 # Meleake Wubbie
 
 meleake1@uw.edu
@@ -8,7 +10,7 @@ http://www.linkedin.com/in/yourname
 
 > Data Analyst
 
-![](assets/gds.png)
+
 
 # Summary
 
