@@ -6,6 +6,8 @@ http://www.example.com
 
 http://www.linkedin.com/in/yourname
 
+> Data Analyst
+
 # Summary
 
 Quick Summary (not objective) specifically highlighting why you qualify for the job.
